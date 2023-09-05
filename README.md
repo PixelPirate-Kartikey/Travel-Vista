@@ -28,6 +28,8 @@ Getting started with Travel.Vista is easy. Visit our website and follow these st
 1. **Explore:** Browse through our website to discover exciting destinations, services, and packages.
 2. **Book:** When you've found the perfect travel experience, use our booking system to secure your spot.
 3. **Review:** After your journey, don't forget to share your experience with the Travel.Vista community through reviews.
+  <img width="960" alt="image" src="https://github.com/Kartikey3107/Travel-Vista/assets/104156929/55d9d246-ab86-4932-b432-e41e33908698">
+
 
 ## Services <a name="services"></a>
 Travel.Vista offers a range of services to enhance your travel experience:
